@@ -1,2 +1,1 @@
-# cardwise
-HarvardX CS50P Final Project
+# CardWise: HarvardX CS50P Final Project
